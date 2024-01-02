@@ -4,13 +4,13 @@ point and lines rest service made with camel spring-boot
 
 ## To build this project use
 
-    mvn install
+    mvn clean install
 
 ## How to run
 
 
 
-    mvn camel:run
+    mvn spring-boot:run
 
 ## Info
 
